@@ -1,11 +1,11 @@
 function Header() {
   return (
-    <header className="hero pt-8 pb-2 bg-gradient-to-b from-base-100 to-base-300">
+    <header className="hero pt-6 pb-2 bg-gradient-to-b from-base-100 to-base-300">
       <div className="hero-content text-center">
         <div className="max-w-xl">
           <div className="animate-fadein mockup-code text-left mb-10">
             <p className="pl-4 opacity-40 font-mono">&lt;h1&gt;</p>
-            <h1 className="text-center dark:text-white text-3xl font-bold text-teal-100">
+            <h1 className="text-center dark:text-white text-4xl font-bold text-teal-100">
               Front-End <br /> Resources
             </h1>
             <p className="pl-4 opacity-40 font-mono">&lt;/h1&gt;</p>
