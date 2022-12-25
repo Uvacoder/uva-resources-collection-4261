@@ -7,7 +7,7 @@ function Footer() {
       <div className="flex align-middle justify-center">
         <a
           target="_blank"
-          href="https://twitter.com/intent/tweet?text=Check%20out%20this%20collection%20of%20resources%20for%20front-end%20developers:&url=https%3A%2F%2Fwebdevhelp.netlify.app"
+          href="https://twitter.com/intent/tweet?text=Check%20out%20this%20collection%20of%20resources%20for%20front-end%20developers:&url=https%3A%2F%2Fuva-resources-collection"
           rel="noreferrer"
         >
           <button className="btn rounded-full mx-2 mb-2">
@@ -31,7 +31,7 @@ function Footer() {
         </a>
         <a
           target="_blank"
-          href="https://github.com/robertmcabee/Front-End-Resources"
+          href="https://github.com/uvacoder/uva-resources-collection"
           rel="noreferrer"
         >
           <button className="btn rounded-full mx-2 mb-2">
@@ -55,9 +55,9 @@ function Footer() {
         </a>
       </div>
       <div className="flex align-middle justify-center">
-        <a href="https://twitter.com/RobertTheMcAbee">
+        <a href="https://twitter.com/VaLandscapes">
           <button className="btn rounded-full mx-2 mb-2">
-            Curated by @RobertTheMcAbee
+            Curated by @VaLandscapes
           </button>
         </a>
       </div>
